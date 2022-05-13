@@ -14,3 +14,6 @@ The area of the triangle is 12.0
 '''
 
 #start writing your code below
+num1 = int(input("enter a number: "))
+num2 = int(input("Enter another number: "))
+print(num1*num2/2)
